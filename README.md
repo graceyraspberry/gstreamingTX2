@@ -1,7 +1,7 @@
 # gstreamingTX2
 Streaming (usb/native camera) on TX2
 
-first, get the IP address of your host and clone the repo. Change directory into the folder.
+First, get the IP address of your host and clone the repo. Change directory into the folder.
 
     ifconfig
     (to get the IP address of the machine that you are going to be streaming from.)
